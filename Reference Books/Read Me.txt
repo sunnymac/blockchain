@@ -1,0 +1,14 @@
+Title: Blockchain E-Book
+Publisher: Cybrosys
+Author: Sainul Abideen
+Link: https://www.blockchainexpert.uk/book/blockchain-book.pdf
+
+Title: Blockchain For Dummies
+Publisher: John Wiley & Sons, Inc.
+Author: Manav Gupta
+Link: https://www.ibm.com/downloads/documents/us-en/10a99803cd2fdcf7
+
+Title: Bitcoin and Cryptocurrency Technologies
+Publisher: Princeton University Press
+Author: Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder
+Link: https://www.lopp.net/pdf/princeton_bitcoin_book.pdf
